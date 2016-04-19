@@ -1,7 +1,7 @@
 name: Jô Salermo
 favicon: null
-layout_spectrum: 0.6262153033167124
-typography_spectrum: 0.5919411182403564
+layout_spectrum: 0.99416
+typography_spectrum: 0.75543
 title: 'Personal Organizer Rio de Janeiro, RJ'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#211f20'
+    - '#e1e1e1'
+    - '#666566'
+    - '#bdbdbe'
   brandStrength: 0.7459860625676811
   lightness: 0.03222813759930432
   saturation: 0.2501630084589124
