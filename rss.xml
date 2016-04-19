@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Personal Organizer Rio de Janeiro, RJ]]></title>
         <description><![CDATA[Personal Organizer Rio de Janeiro, RJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jo-salermo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 03:33:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 03:41:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jo-salermo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/761dacfe-8102-49c9-8299-21d94c6e7317.jpg">]]></description>
+            <link>https://thegrid.ai/jo-salermo/5e43ac2f-71ad-4622-aae4-3fb6e19fee03/index.html</link>
+            <guid isPermaLink="false">5e43ac2f-71ad-4622-aae4-3fb6e19fee03</guid>
+            <pubDate>Tue, 19 Apr 2016 03:40:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc167999-ecdc-4bff-82f2-6642d8b65baa.jpg">]]></description>
-            <link>undefinedorganizando-as-loucas-da-familia-sabe-aquele-jogo-de-copos/index.html</link>
+            <link>https://thegrid.ai/jo-salermo/organizando-as-loucas-da-familia-sabe-aquele-jogo-de-copos/index.html</link>
             <guid isPermaLink="false">2e1f17a1-8170-4f5a-b136-1a66977f8489</guid>
             <pubDate>Tue, 19 Apr 2016 03:32:42 GMT</pubDate>
         </item>
